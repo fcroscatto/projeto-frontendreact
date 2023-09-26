@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "produto": "Alien Cinza paz e amor",
+        "valor": 59.99,
+        "imagem": "img/camiseta_alien.jpg"
+    },
+    {
+        "id": 2,
+        "produto": "Astronauta da Nasa fazendo pose",
+        "valor": 65.99,
+        "imagem": "img/camiseta_astronauta_nasa.jpg"
+    },
+    {
+        "id": 3,
+        "produto": "Planetas",
+        "valor": 60.00,
+        "imagem": "img/camiseta_planetas.jpg"
+    },
+    {
+        "id": 4,
+        "produto": "Old Scholl Space Exploration",
+        "valor": 49.00,
+        "imagem": "img/camiseta-geek-ciencia-onibus.jpg"
+    },
+    {
+        "id": 5,
+        "produto": "Galaxias",
+        "valor": 75.90,
+        "imagem": "img/camiseta-nasa-galaxias.jpg"
+    },
+    {
+        "id": 6,
+        "produto": "Sistema Solar",
+        "valor": 64.50,
+        "imagem": "img/camiseta-nasa-sistema-solar.jpg"
+    },
+    {
+        "id": 7,
+        "produto": "Onibus Espacial",
+        "valor": 65.00,
+        "imagem": "img/camiseta-onibus-espacial.jpg"
+    },
+    {
+        "id": 8,
+        "produto": "Nave abduzindo Passaros",
+        "valor": 49.50,
+        "imagem": "img/camiseta-passaro.jpg"
+    },
+    {
+        "id": 9,
+        "produto": "Camisa Espacial",
+        "valor": 70.00,
+        "imagem": "img/camisa-espacial.jpg"
+    }]
+    
